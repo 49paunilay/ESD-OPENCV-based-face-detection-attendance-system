@@ -1,0 +1,11 @@
+Tested on python -- 3.8.6 
+--------------------Internal libraries -----------------
+os
+datetime
+--------------------External libraries -----------------
+pygame  -1.9.6
+XlsxWriter
+dlib library
+face_recognisation library
+opencv library
+numpy library
